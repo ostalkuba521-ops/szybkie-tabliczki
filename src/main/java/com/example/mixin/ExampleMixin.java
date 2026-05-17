@@ -1,4 +1,4 @@
-package net.fabricmc.example.mixin;
+package com.example.mixin;
 
 import net.minecraft.block.entity.SignBlockEntity;
 import net.minecraft.entity.player.PlayerEntity;
